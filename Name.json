@@ -1,0 +1,332 @@
+{
+    "name": "Eye Candy",
+    "description": "Eye Candy. Original made by HaniBee.",
+    "version": "1",
+    "authors": [
+      {
+        "name": "Moodl",
+        "id": "716941151386599464"
+      }
+    ],
+    "semanticColors": {
+      "ACTIVITY_CARD_BACKGROUND": [
+      "#474453"
+      ],
+      "ANDROID_RIPPLE": [
+      "#10132033"
+      ],
+      "BACKGROUND_ACCENT": [
+      "#AF986B"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#9F917344"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#10132033"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#3F3E4A"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#61606D"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#5A5966"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT_2": [
+      "#474453"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#61606D"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#10132033"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#585666"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#4B4957"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#575565"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#61606D"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#61606D"
+      ],
+      "BG_BASE_PRIMARY": [
+      "#3F3E4A"
+      ],
+      "BG_BACKDROP": [
+      "#585666b2"
+      ],
+      "BG_BASE_SECONDARY": [
+      "#3F3E4A"
+      ],
+      "BG_BASE_TERTIARY": [
+      "#484654"
+      ],
+      "BORDER_FAINT": [
+      "#696779"
+      ],
+      "BORDER_STRONG": [
+      "#696779"
+      ],      
+      "BORDER_SUBTLE": [
+      "#696779"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#474453"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#4B4957"
+      ],
+      "CHANNEL_ICON": [
+      "#BDBECC"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#E8E8EA"
+      ],
+      "HEADER_PRIMARY": [
+      "#FFFFFF"
+      ],
+      "HEADER_SECONDARY": [
+      "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#10132033"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#696779"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#BDBECC"
+      ],
+      "MENTION_BACKGROUND": [
+      "#AF986B"
+      ],
+      "MENTION_FOREGROUND": [
+      "#E8E8EA"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#61606D"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#5A5966"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
+      "#696779"
+      ],
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#E8E8EA"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FFFFFF"
+      ],
+      "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#61606D"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#696779"
+      ],
+      "STATUS_DANGER": [
+      "#C48A7A"
+      ],
+      "STATUS_DANGER_BACKGROUND": [
+      "#C48A7A"
+      ],
+      "STATUS_DANGER_TEXT": [
+      "#4B4957"
+      ],
+      "TEXT_DANGER": [
+      "#C48A7A"
+      ],
+      "TEXT_LINK": [
+      "#FFE1C1"
+      ],
+      "TEXT_MUTED": [
+      "#BDBECC"
+      ],
+      "TEXT_NORMAL": [
+      "#E8E8EA"
+      ],
+      "TEXT_PRIMARY": [
+      "#E8E8EA"
+      ],
+      "TEXT_SECONDARY": [
+      "#BDBECC"
+      ]
+    },
+    "rawColors": {
+      "BLUE_345": "#FFE1C1",
+      "BLACK_500": "#10132033",
+      "BRAND_230": "#D0B278",
+      "BRAND_260": "#AF986B",
+      "BRAND_360": "#E8E8EA",
+      "BRAND_500": "#AF986B",
+      "BRAND_560": "#E8E8EA",
+      "ORANGE_345": "#E4B681",
+      "PLUM_1": "#FFFFFF",
+      "PLUM_10": "#BDBECC",
+      "PLUM_11": "#3F3E4A",
+      "PLUM_13": "#8F669C",
+      "PLUM_15": "#EAEAEE",
+      "PLUM_16": "#C88EAD",
+      "PLUM_17": "#5A4D5E",
+      "PLUM_18": "#575565",
+      "PLUM_19": "#10132033",
+      "PLUM_20": "#3F3E4A",
+      "PLUM_21": "#10132033",
+      "PLUM_22": "#5A4D5E",
+      "PLUM_24": "#5A4D5E",
+      "PLUM_25": "#8DB97A",
+      "PLUM_3": "#E8E8EA",
+      "PLUM_4": "#10132033",
+      "PLUM_6": "#E8E8EA",
+      "PLUM_9": "#E8E8EA",
+      "PRIMARY_100": "#585666",
+      "PRIMARY_130": "#E8E8EA",
+      "PRIMARY_230": "#8F669C",
+      "PRIMARY_300": "#CE7DA0",
+      "PRIMARY_345": "#D0B278",
+      "PRIMARY_360": "#FEF0F8",    
+      "PRIMARY_400": "#CE7DA0",
+      "PRIMARY_430": "#8DB97A",
+      "PRIMARY_460": "#4B4957",
+      "PRIMARY_500": "#8F669C",
+      "PRIMARY_530": "#8DB97A",
+      "PRIMARY_600": "#3F3E4A",
+      "PRIMARY_630": "#474453",
+      "PRIMARY_645": "#EAA3C5",
+      "PRIMARY_660": "#61606D",
+      "PRIMARY_700": "#696779",
+      "PRIMARY_760": "#D0B278",
+      "PRIMARY_800": "#61606D",
+      "PRIMARY_860": "#E8E8EA",
+      "GREEN_100": "#8DB97A",
+      "GREEN_130": "#8DB97A",
+      "GREEN_160": "#8DB97A",
+      "GREEN_200": "#8DB97A",
+      "GREEN_230": "#8DB97A",
+      "GREEN_260": "#8DB97A",
+      "GREEN_300": "#8DB97A",
+      "GREEN_330": "#8DB97A",
+      "GREEN_345": "#8DB97A",
+      "GREEN_360": "#8DB97A",
+      "GREEN_400": "#8DB97A",
+      "GREEN_430": "#8DB97A",
+      "GREEN_460": "#8DB97A",
+      "GREEN_500": "#8DB97A",
+      "GREEN_530": "#8DB97A",
+      "GREEN_560": "#8DB97A",
+      "GREEN_600": "#8DB97A",
+      "GREEN_630": "#8DB97A",
+      "GREEN_660": "#8DB97A",
+      "GREEN_700": "#8DB97A",
+      "GREEN_730": "#8DB97A",
+      "GREEN_760": "#8DB97A",
+      "GREEN_800": "#8DB97A",
+      "GREEN_830": "#8DB97A",
+      "GREEN_860": "#8DB97A",
+      "GREEN_900": "#8DB97A",
+      "GUILD_BOOSTING_PINK": "#CE7DA0",   
+      "GUILD_BOOSTING_PURPLE": "#8F669C",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8F669C",
+      "RED_260": "#C48A7A",
+      "RED_300": "#C48A7A",
+      "RED_330": "#C48A7A",
+      "RED_345": "#C48A7A",
+      "RED_360": "#C48A7A",
+      "RED_400": "#C48A7A",
+      "RED_430": "#C48A7A",
+      "RED_460": "#C48A7A",
+      "RED_500": "#C48A7A",
+      "RED_530": "#C48A7A",
+      "RED_560": "#C48A7A",
+      "RED_600": "#C48A7A",
+      "RED_630": "#C48A7A",
+      "RED_660": "#C48A7A",
+      "RED_700": "#C48A7A",
+      "ROLE_DEFAULT": "#99aab5",
+      "YELLOW_100": "#D0B278",
+      "YELLOW_130": "#D0B278",
+      "YELLOW_160": "#D0B278",
+      "YELLOW_200": "#D0B278",
+      "YELLOW_230": "#D0B278",
+      "YELLOW_260": "#D0B278",
+      "YELLOW_300": "#D0B278",
+      "YELLOW_330": "#D0B278",
+      "YELLOW_345": "#D0B278",
+      "YELLOW_360": "#D0B278",
+      "YELLOW_400": "#D0B278",
+      "YELLOW_430": "#D0B278",
+      "YELLOW_460": "#D0B278",
+      "YELLOW_500": "#D0B278",
+      "YELLOW_530": "#D0B278",
+      "YELLOW_560": "#D0B278",
+      "YELLOW_600": "#D0B278",
+      "YELLOW_630": "#D0B278",
+      "YELLOW_660": "#D0B278",
+      "YELLOW_700": "#D0B278",
+      "YELLOW_730": "#D0B278",
+      "YELLOW_760": "#D0B278",
+      "YELLOW_800": "#D0B278",
+      "YELLOW_830": "#D0B278",
+      "YELLOW_860": "#D0B278",
+      "YELLOW_900": "#D0B278",
+      "WHITE_500": "#FFFFFF",
+      "WHITE_630": "#696779"
+ },
+ "fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "ggsans-Bold": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamBold.ttf",
+  "ggsans-BoldItalic": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamBoldItalic.ttf",
+  "ggsans-ExtraBold": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamBlack.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamBlackItalic.ttf",
+  "ggsans-Medium": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamMedium.ttf",
+  "ggsans-MediumItalic": "https://github.com/NicoAcosta/gotham-fonts/blob/main/ttf/GothamMediumItalic.ttf",
+  "ggsans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "ggsans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
+  "ggsans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-MediumItalic.ttf",
+  "NotoSans-Bold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "NotoSans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "NotoSans-Medium": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "NotoSans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "NotoSans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
+  "NotoSans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
+  "SourceCodePro-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
+    },
+   "plus":{
+       "version":"0",
+       "customOverlays": true,
+       "icons":{
+          "ClydeIcon": "#5865F2",
+          "Discord": "#5865F2",
+          "ic_radio_circle_checked": "#AF986B",
+          "ic_radio_circle_checked__overlay": "#FFFFFF",
+          "ic_radio_square_24px": "#AF986B",
+          "ic_radio_square_checked_24px": "#AF986B",
+          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+          "ic_selection_checked_24px": "#AF986B",
+          "ic_selection_checked_24px__overlay": "#FFFFFF",
+          "img_account_sync_spotify_white": "#1ed760",
+          "StatusMobileOnline": "#a6d189",
+          "StatusIdle": "#e5c890",
+          "StatusDND": "#e78284",
+          "StatusOffline": "#585666",
+          "StatusOnline": "#a6d189",
+          "StatusStreaming": "#ca9ee6"
+ }
+},
+    "spec": 2
+}
